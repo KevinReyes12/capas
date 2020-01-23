@@ -1,0 +1,6 @@
+C:\Users\USUARIO\source\repos\ejemplocapas\CapasdeDatos\bin\Debug\CapasdeDatos.dll
+C:\Users\USUARIO\source\repos\ejemplocapas\CapasdeDatos\bin\Debug\CapasdeDatos.pdb
+C:\Users\USUARIO\source\repos\ejemplocapas\CapasdeDatos\obj\Debug\CapasdeDatos.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ejemplocapas\CapasdeDatos\obj\Debug\CapasdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ejemplocapas\CapasdeDatos\obj\Debug\CapasdeDatos.dll
+C:\Users\USUARIO\source\repos\ejemplocapas\CapasdeDatos\obj\Debug\CapasdeDatos.pdb

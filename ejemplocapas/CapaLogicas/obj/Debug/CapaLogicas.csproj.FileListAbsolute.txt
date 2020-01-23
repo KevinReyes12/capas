@@ -1,0 +1,9 @@
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\bin\Debug\CapaLogicas.dll
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\bin\Debug\CapaLogicas.pdb
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\bin\Debug\CapasdeDatos.dll
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\bin\Debug\CapasdeDatos.pdb
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\obj\Debug\CapaLogicas.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\obj\Debug\CapaLogicas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\obj\Debug\CapaLogicas.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\obj\Debug\CapaLogicas.dll
+C:\Users\USUARIO\source\repos\ejemplocapas\CapaLogicas\obj\Debug\CapaLogicas.pdb

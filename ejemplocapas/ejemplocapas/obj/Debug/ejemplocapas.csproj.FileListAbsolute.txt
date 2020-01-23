@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\bin\Debug\ejemplocapas.exe.config
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\bin\Debug\ejemplocapas.exe
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\bin\Debug\ejemplocapas.pdb
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\bin\Debug\CapaLogicas.dll
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\bin\Debug\CapasdeDatos.dll
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\bin\Debug\CapaLogicas.pdb
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\bin\Debug\CapasdeDatos.pdb
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\obj\Debug\ejemplocapas.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\obj\Debug\ejemplocapas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\obj\Debug\ejemplocapas.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\obj\Debug\ejemplocapas.exe
+C:\Users\USUARIO\source\repos\ejemplocapas\ejemplocapas\obj\Debug\ejemplocapas.pdb
